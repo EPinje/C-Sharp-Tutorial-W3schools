@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/1. Syntax/">
+    <Project Path="1. Syntax/Syntax (notes)/Syntax (notes).csproj" Id="32d2aab9-d7a2-4823-bd45-02e268e650c8" />
+  </Folder>
+  <Folder Name="/2. Output/">
+    <Project Path="2. Output/Write() &amp; WriteLine()/Write() &amp; WriteLine().csproj" Id="4519a2be-83d2-4706-aac0-f7bf028aa294" />
+  </Folder>
+  <Folder Name="/3. Comments/">
+    <Project Path="3. Comments/Comments/Comments.csproj" Id="4538fdfd-79fb-4f80-9d39-f36d74d1a2f6" />
+  </Folder>
+  <Folder Name="/4. Variables/">
+    <Project Path="4. Variables/Variables/Variables.csproj" Id="a1a97eb1-42c6-4bf3-82f9-c5cbfb225173" />
+  </Folder>
+  <Folder Name="/5. Data Types/" />
+  <Folder Name="/6. Type Casting/" />
+  <Folder Name="/7. User Input/" />
+</Solution>
