@@ -40,7 +40,7 @@ namespace Variables
                 Console.WriteLine(forlovede);
 
             //teksten efter variable typen, er hvad variablen kan genkaldes med.
-            //genkandelsesnavnet efterfulgt af = giver mulighed for at fastsætte en værddi, så længe at værdien passer til rammerne for typen
+            //genkandelsesnavnet efterfulgt af = giver mulighed for at fastsætte en værdi, så længe at værdien passer til rammerne for typen
 
             Console.ReadLine();
         }
